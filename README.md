@@ -1,3 +1,4 @@
-# My Awesome Book
+# FE-Notes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+开这个坑的原因是为了巩固前端基础的理论知识。
+
