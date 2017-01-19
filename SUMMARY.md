@@ -4,7 +4,7 @@
 * [设计模式](设计模式/README.md)
     * [工厂模式](设计模式/工厂模式.md)
     * [构造函数模式](设计模式/构造函数模式.md)
-* [数据结构](数据结构.md)
-    * [map](map.md)
-    * [array](array.md)
+* [数据结构](数据结构/README.md)
+    * [map](数据结构/map.md)
+    * [array](数据结构/array.md)
 
